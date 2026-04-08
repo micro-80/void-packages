@@ -1,4 +1,5 @@
 ## micro-80 void-packages
+This is for packages that won't be accepted into upstream but that I still rely on.
 - adw-gtk3
 ## The XBPS source packages collection
 
